@@ -1,0 +1,35 @@
+1
+01:00:00,000 --> 01:00:02,366
+["TOLEDO | Speranza", "SHANI | Security"]
+>> SHANI: Hey, you are on camera.
+
+2
+01:00:02,366 --> 01:00:03,933
+This elevator has been out of commission since—
+[alarm rings]
+
+3
+01:00:03,933 --> 01:00:06,266
+>> ALARM: Security to the Slingshot in sector G.
+
+4
+01:00:06,266 --> 01:00:10,000
+We have a possible intruder in the Tubes.
+Repeat: possible intruder.
+
+
+5
+01:00:10,933 --> 01:00:13,933
+>> SHANI: When the elevator stops,
+exit with your hands raised.
+
+
+6
+01:00:13,933 --> 01:00:17,666
+I cannot let you in until you show your face.
+
+7
+01:00:17,666 --> 01:00:20,433
+How did you make it here by yourself?
+Who are you?
+

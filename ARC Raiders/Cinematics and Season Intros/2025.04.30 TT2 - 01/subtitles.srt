@@ -1,0 +1,55 @@
+1
+01:00:00,000 --> 01:00:04,300
+["2180"]
+
+2
+01:00:04,300 --> 01:00:08,400
+["Rust Belt | South Calabretta"]
+
+3
+01:00:10,500 --> 01:00:13,133
+>> RAIDER: It was silent for years.
+
+4
+01:00:17,033 --> 01:00:19,300
+Just whispers.
+
+5
+01:00:23,466 --> 01:00:25,666
+Distant cracks of thunder.
+
+6
+01:00:27,266 --> 01:00:29,466
+[thunder rumbles]
+
+7
+01:00:30,866 --> 01:00:33,066
+No one paid attention.
+
+8
+01:00:33,066 --> 01:00:35,699
+[distant ARC laser]
+
+9
+01:00:38,333 --> 01:00:40,533
+I wish we did.
+
+10
+01:00:42,000 --> 01:00:48,099
+["ARC threatens any possible settlement on the surface.
+When one machine falls, another takes its place."]
+
+11
+01:00:50,000 --> 01:00:57,000
+["In the hidden city of Toledo, thousands seek shelter.
+Many of them rely on vital supplies from the surface."]
+
+12
+01:00:57,966 --> 01:01:04,133
+["Among the fierce competition for these resources —
+only a few dare to go topside."]
+
+13
+01:01:04,900 --> 01:01:11,066
+["They are known as Raiders."]
+

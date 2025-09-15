@@ -1,0 +1,450 @@
+1
+01:00:00,000 --> 01:00:03,566
+[audience welcoming applause]
+
+2
+01:00:07,800 --> 01:00:10,766
+>> SVEN GRUNDBERG: Thank you Junghun.
+And, hello everybody.
+
+3
+01:00:10,766 --> 01:00:11,766
+So today,
+
+4
+01:00:12,816 --> 01:00:18,483
+I first want to go quickly through some of the reasons
+we at Embark wanted to make this game.
+
+5
+01:00:18,483 --> 01:00:24,949
+And, go into a bit more detail about the underlying
+trend that we are tapping into with ARC Raiders.
+
+6
+01:00:24,949 --> 01:00:29,916
+I will also share an overview of the game, the premise,
+and the world, and the universe we have built.
+
+7
+01:00:29,916 --> 01:00:35,116
+And, the role you take in this universe,
+your objectives and motivations as a Raider
+
+8
+01:00:35,116 --> 01:00:39,150
+fighting for your own survival and that of
+your home and colony.
+
+9
+01:00:39,150 --> 01:00:45,266
+And lastly, I will give you a brief update on where we are,
+and some news and our steps a head.
+
+10
+01:00:53,966 --> 01:00:58,433
+>> SVEN: ARC Raiders is a game that taps deep into
+something we at Embark like to call:
+
+11
+01:00:58,433 --> 01:01:00,816
+"consequential play".
+
+12
+01:01:00,816 --> 01:01:05,366
+This is one of the clearest and most profound trends
+in the games industry over the past decade.
+
+13
+01:01:05,366 --> 01:01:10,316
+It is a trend that we think has spurred the creation of
+some of the last decades most popular games
+
+14
+01:01:10,316 --> 01:01:11,466
+and game modes.
+
+15
+01:01:11,466 --> 01:01:16,816
+It is a trend that has been with us for some time,
+but that continues to accelerate and grow.
+
+16
+01:01:17,599 --> 01:01:23,183
+"Consequential play" is seen in games where choices matter,
+and where failure has consquences.
+
+17
+01:01:23,183 --> 01:01:27,666
+It is best defined by a few important game mechanics,
+and philosophies,
+
+18
+01:01:27,666 --> 01:01:31,683
+that lead to more impactful and persistent
+consequences for players.
+
+19
+01:01:32,099 --> 01:01:36,116
+These are mechanics that give players a sense
+of impact and control over gameplay.
+
+20
+01:01:36,116 --> 01:01:40,133
+Mechanics that: reward risk according to the challenge.
+
+21
+01:01:40,133 --> 01:01:44,933
+And, mechanics that: lets players be in control
+of their stakes.
+
+22
+01:01:49,400 --> 01:01:52,650
+>> SVEN: "Consequential play" is not limited to any single
+genre.
+
+23
+01:01:52,650 --> 01:01:57,349
+In fact, you see it across a number of different
+game genres, like Battle Royales,
+
+24
+01:01:57,349 --> 01:02:02,666
+Extraction games, Survival games,
+Rougelikes, and Soulsbornes.
+
+25
+01:02:02,666 --> 01:02:07,983
+As I said, many of the most popular and acclaimed new
+game releases over the past 10 years.
+
+26
+01:02:07,983 --> 01:02:14,000
+And what these contain are things like
+single-life sessions, which means you cannot respawn.
+
+27
+01:02:14,000 --> 01:02:18,949
+Or permadeath, which means that you only have
+one try, or where failure means
+
+28
+01:02:18,949 --> 01:02:21,666
+the potential loss of progression.
+
+29
+01:02:21,666 --> 01:02:25,349
+All of this ensures high-stakes,
+consequential play.
+
+30
+01:02:25,783 --> 01:02:28,366
+And that takes us to ARC Raiders.
+
+31
+01:02:28,366 --> 01:02:32,683
+We have been quiet about ARC Raiders for
+a little while here, as we develop the game.
+
+32
+01:02:32,683 --> 01:02:38,233
+But, it is finally time for us to start showing you,
+and the world, this game of ours.
+
+33
+01:02:38,233 --> 01:02:39,449
+So, lets take it away.
+
+34
+01:02:39,666 --> 01:02:45,533
+>> SVEN: ARC Raiders is a third-person PvPvE
+action survival shooter, emphasizing immersion,
+
+35
+01:02:45,533 --> 01:02:50,500
+tense action, consequential play, deep progression,
+and high usability.
+
+36
+01:02:51,516 --> 01:02:56,583
+It is set on Earth several hundred years into
+the future, following a mass exodus of
+
+37
+01:02:56,583 --> 01:02:59,500
+humans into space due to an ecological collapse.
+
+38
+01:03:00,066 --> 01:03:04,683
+And, this is a large and expansive universe...
+and we are inviting all of you to explore
+
+39
+01:03:04,683 --> 01:03:06,883
+this vast and beautiful world.
+
+40
+01:03:08,133 --> 01:03:14,483
+It is a high-stakes game, with high tension.
+Where you play in various hostile and dangerous locations.
+
+41
+01:03:14,483 --> 01:03:18,866
+Out there, as a Raider, you need to savenge
+and hunt for resources for your colony.
+
+42
+01:03:19,433 --> 01:03:25,783
+But in your way, stands ARC machines.
+This is a musterious deadly foe with a hidden agenda.
+
+43
+01:03:25,783 --> 01:03:31,133
+Ranging from small drones, to lethal mechanical giants.
+
+44
+01:03:33,266 --> 01:03:38,650
+And of course, other players - Raiders - who are also
+in the world competing with you for loot.
+
+45
+01:03:39,766 --> 01:03:43,949
+This means that the gameplay and the mechanics
+are centered around human vs human,
+
+46
+01:03:43,949 --> 01:03:50,050
+human vs machine, and having to grapple with
+a conflicting nature of your own humanity.
+
+47
+01:03:50,050 --> 01:03:53,316
+It is a game that lives on tension from the
+combination of these mechanics.
+
+48
+01:03:54,133 --> 01:03:58,916
+You have to be on your toes, you have to carefully
+consider your way to your goal.
+
+49
+01:03:58,916 --> 01:04:03,250
+And, prepare for the unknown,
+and be ready for any danger on your way.
+
+50
+01:04:07,183 --> 01:04:10,116
+>> SVEN: And, when the action does happen,
+it is a peak
+
+51
+01:04:10,116 --> 01:04:16,449
+that contrasts the moment that came before it.
+The action is visceral, tactile, and grounded.
+
+52
+01:04:16,449 --> 01:04:21,583
+And, it will invite you to a rich sandbox of
+gadgets and tools, some of it more familiar
+
+53
+01:04:21,583 --> 01:04:26,016
+and some of it more exotic, utilitatian Raider tech.
+
+54
+01:04:27,500 --> 01:04:32,166
+And besides just scavenging, and looting, and
+the visceral combat, the traders
+
+55
+01:04:32,166 --> 01:04:36,833
+in your colony, Speranza, will send you out on quests.
+Such as discovering probes
+
+56
+01:04:36,833 --> 01:04:45,900
+deployed by ARC from orbit, or uncovering mysteries,
+or challenges, to bring back special ARC materials,
+
+57
+01:04:45,900 --> 01:04:48,833
+and sometimes having to fight the machines for it.
+
+58
+01:04:50,083 --> 01:04:54,750
+But to reap the rewards and to grow as a Raider,
+you will have to make it out alive,
+
+59
+01:04:54,750 --> 01:04:58,933
+and return back to the colony. Return home.
+
+60
+01:04:58,933 --> 01:05:03,416
+This is where you trade your loot, and your valuables.
+To build, and upgrade, and improve,
+
+61
+01:05:03,416 --> 01:05:05,750
+and expand your chambers. Your home.
+
+62
+01:05:05,750 --> 01:05:11,566
+And ultimately grow your own character, your Raider,
+and your loadout, to suit your playstyle.
+
+63
+01:05:11,566 --> 01:05:13,966
+To become the Raider that you want to be.
+
+64
+01:05:15,083 --> 01:05:20,949
+ARC Raiders presents itself as an immersive adventure.
+And, our ambition has been here to create a vibrant,
+
+65
+01:05:20,949 --> 01:05:27,000
+and inviting world that we want you to love to explore.
+
+66
+01:05:27,000 --> 01:05:31,966
+Even though the world as we know it is gone,
+and the premise is dark, the presentation of
+
+67
+01:05:31,966 --> 01:05:36,316
+this game is deliberately colorful, charming,
+and grounded.
+
+68
+01:05:36,316 --> 01:05:39,416
+We want this world to feel real, and alive.
+
+69
+01:05:40,333 --> 01:05:44,166
+The massive colony we live in is fractured.
+But the neighborhood of Speranza,
+
+70
+01:05:44,166 --> 01:05:49,000
+that we call home, is cozy, it is immersive,
+and it feels like a real place.
+
+71
+01:05:49,683 --> 01:05:53,483
+The traders, and the quest givers that you
+interact with are real people.
+
+72
+01:05:54,033 --> 01:05:58,833
+And, as you start playing this game, your journey
+has just begun, and the stories in our universe will
+
+73
+01:05:58,833 --> 01:06:02,883
+take you into new adventures across the world.
+
+74
+01:06:03,250 --> 01:06:09,699
+Our world will always grow bigger, and take players
+futher away beyond the first valley,
+
+75
+01:06:09,699 --> 01:06:14,416
+evolving the game world, the gameplay,
+and the player experience itself.
+
+76
+01:06:15,199 --> 01:06:18,766
+>> SVEN: So, we recently made a few annoucements
+around the development, and where are are.
+
+77
+01:06:18,766 --> 01:06:22,966
+So, let's not beat around the bush,
+and let you in on what is next for the game.
+
+78
+01:06:23,666 --> 01:06:29,616
+Firstly, the public playtesting of ARC Raiders
+is starting already this fall. Next month.
+
+79
+01:06:29,616 --> 01:06:34,633
+We are starting with the first playtest on Steam,
+between October 24th and 27th.
+
+80
+01:06:34,633 --> 01:06:40,916
+And players will have to sign-up for playtesting
+on our Steam app, to get an opportunity to play.
+
+81
+01:06:40,916 --> 01:06:42,750
+And, console testing will follow later.
+
+82
+01:06:43,866 --> 01:06:47,300
+And secondly, we have an update on the
+release of the game.
+
+83
+01:06:47,300 --> 01:06:51,333
+ARC Raiders will be released in 2025 on PC,
+that is Steam and Epic Games Store.
+
+84
+01:06:51,333 --> 01:06:56,300
+Consoles, PS5 and Xbox Series X|S,
+and cloud streaming through Nvidia GeForce Now.
+
+85
+01:06:58,116 --> 01:07:01,933
+With that I want to leave you a trailer,
+and thank you so much.
+
+86
+01:07:03,333 --> 01:07:05,133
+[audience applause]
+[ARC Raiders trailer starts]
+
+87
+01:07:06,833 --> 01:07:08,349
+>> CELESTE: Where do we go from here?
+
+88
+01:07:16,266 --> 01:07:18,566
+You've told us nothing of this place.
+
+89
+01:07:28,716 --> 01:07:30,483
+Look at us now,
+
+90
+01:07:34,000 --> 01:07:35,766
+Raiders,
+
+91
+01:07:37,483 --> 01:07:39,250
+playing with fire.
+
+92
+01:07:43,033 --> 01:07:44,883
+Everything to lose,
+
+93
+01:07:47,516 --> 01:07:49,500
+but even more to gain.
+
+94
+01:07:50,733 --> 01:07:52,933
+["ARC Raiders"]
+
+95
+01:07:53,449 --> 01:07:55,199
+["Coming 2025"]
+
+96
+01:07:55,199 --> 01:07:57,033
+["Playtesting starts this Fall"]
+
