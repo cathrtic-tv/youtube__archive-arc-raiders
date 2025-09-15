@@ -17,12 +17,10 @@ This elevator has been out of commission since—
 We have a possible intruder in the Tubes.
 Repeat: possible intruder.
 
-
 5
 01:00:10,933 --> 01:00:13,933
 >> SHANI: When the elevator stops,
 exit with your hands raised.
-
 
 6
 01:00:13,933 --> 01:00:17,666
