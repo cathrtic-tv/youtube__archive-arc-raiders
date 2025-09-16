@@ -15,7 +15,7 @@ This is one of the clearest and most profound trends in the games industry over 
 It is a trend that we think has spurred the creation of some of the last decades most popular games 
 and game modes. 
 It is a trend that has been with us for some time, but that continues to accelerate and grow. 
-"Consequential play" is seen in games where choices matter, and where failure has consquences. 
+"Consequential play" is seen in games where choices matter, and where failure has consequences. 
 It is best defined by a few important game mechanics, and philosophies, 
 that lead to more impactful and persistent consequences for players. 
 These are mechanics that give players a sense of impact and control over gameplay. 
@@ -42,8 +42,8 @@ humans into space due to an ecological collapse.
 And, this is a large and expansive universe... and we are inviting all of you to explore 
 this vast and beautiful world. 
 It is a high-stakes game, with high tension. Where you play in various hostile and dangerous locations. 
-Out there, as a Raider, you need to savenge and hunt for resources for your colony. 
-But in your way, stands ARC machines. This is a musterious deadly foe with a hidden agenda. 
+Out there, as a Raider, you need to scavenge and hunt for resources for your colony. 
+But in your way, stands ARC machines. This is a mysterious deadly foe with a hidden agenda. 
 Ranging from small drones, to lethal mechanical giants. 
 And of course, other players - Raiders - who are also in the world competing with you for loot. 
 This means that the gameplay and the mechanics are centered around human vs human, 
@@ -55,7 +55,7 @@ And, prepare for the unknown, and be ready for any danger on your way.
 >> SVEN: And, when the action does happen, it is a peak 
 that contrasts the moment that came before it. The action is visceral, tactile, and grounded. 
 And, it will invite you to a rich sandbox of gadgets and tools, some of it more familiar 
-and some of it more exotic, utilitatian Raider tech. 
+and some of it more exotic, utilitarian Raider tech. 
 And besides just scavenging, and looting, and the visceral combat, the traders 
 in your colony, Speranza, will send you out on quests. Such as discovering probes 
 deployed by ARC from orbit, or uncovering mysteries, or challenges, to bring back special ARC materials, 
@@ -76,10 +76,10 @@ that we call home, is cozy, it is immersive, and it feels like a real place.
 The traders, and the quest givers that you interact with are real people. 
 And, as you start playing this game, your journey has just begun, and the stories in our universe will 
 take you into new adventures across the world. 
-Our world will always grow bigger, and take players futher away beyond the first valley, 
+Our world will always grow bigger, and take players further away beyond the first valley, 
 evolving the game world, the gameplay, and the player experience itself. 
 
->> SVEN: So, we recently made a few annoucements around the development, and where are are. 
+>> SVEN: So, we recently made a few announcements around the development, and where are are. 
 So, let's not beat around the bush, and let you in on what is next for the game. 
 Firstly, the public playtesting of ARC Raiders is starting already this fall. Next month. 
 We are starting with the first playtest on Steam, between October 24th and 27th. 

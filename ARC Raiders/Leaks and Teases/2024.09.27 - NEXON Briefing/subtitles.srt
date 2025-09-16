@@ -72,7 +72,7 @@ but that continues to accelerate and grow.
 16
 01:01:17,599 --> 01:01:23,183
 "Consequential play" is seen in games where choices matter,
-and where failure has consquences.
+and where failure has consequences.
 
 17
 01:01:23,183 --> 01:01:27,666
@@ -190,13 +190,13 @@ Where you play in various hostile and dangerous locations.
 
 41
 01:03:14,483 --> 01:03:18,866
-Out there, as a Raider, you need to savenge
+Out there, as a Raider, you need to scavenge
 and hunt for resources for your colony.
 
 42
 01:03:19,433 --> 01:03:25,783
 But in your way, stands ARC machines.
-This is a musterious deadly foe with a hidden agenda.
+This is a mysterious deadly foe with a hidden agenda.
 
 43
 01:03:25,783 --> 01:03:31,133
@@ -249,7 +249,7 @@ gadgets and tools, some of it more familiar
 
 53
 01:04:21,583 --> 01:04:26,016
-and some of it more exotic, utilitatian Raider tech.
+and some of it more exotic, utilitarian Raider tech.
 
 54
 01:04:27,500 --> 01:04:32,166
@@ -347,7 +347,7 @@ take you into new adventures across the world.
 74
 01:06:03,250 --> 01:06:09,699
 Our world will always grow bigger, and take players
-futher away beyond the first valley,
+further away beyond the first valley,
 
 75
 01:06:09,699 --> 01:06:14,416
@@ -356,7 +356,7 @@ and the player experience itself.
 
 76
 01:06:15,199 --> 01:06:18,766
->> SVEN: So, we recently made a few annoucements
+>> SVEN: So, we recently made a few announcements
 around the development, and where are are.
 
 77
